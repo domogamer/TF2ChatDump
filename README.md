@@ -1,5 +1,5 @@
 # TF2ChatDump
-Print every message ever sent from players in games a played by specified player on games captured by logs.tf to console and text file
+Print every message ever sent from players in games played by specified player on games captured by logs.tf to console and text file
 
 An example using everyone's favourite player Chubbabubb. Find him using this command:
 python .\TF2ChatDump.py "https://logs.tf/profile/76561198206875340"
