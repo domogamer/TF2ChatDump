@@ -4,7 +4,8 @@ Print every message ever sent from players in games a played by specified player
 An example using everyones favourite player Chubbabubb. Find him using this command:
 python .\TF2ChatDump.py "https://logs.tf/profile/76561198206875340"
 
-![image](https://github.com/user-attachments/assets/409ae983-79c1-4289-9292-5c1005f0dddd)
+![Screenshot 2025-03-07 003426](https://github.com/user-attachments/assets/93a65522-ea1a-4509-a87e-f32a4c28c23a)
+
 
 
 
@@ -12,12 +13,14 @@ python .\TF2ChatDump.py "https://logs.tf/profile/76561198206875340"
 Single him out using the solo option:
 python .\TF2ChatDump.py "https://logs.tf/profile/76561198206875340" -s
 
-![image](https://github.com/user-attachments/assets/53ad026e-3aec-4781-abc5-f8718a3b7685)
+![Screenshot 2025-03-07 002259](https://github.com/user-attachments/assets/42405d1a-bb1d-4644-92b1-27394abd9d82)
+
 
 
 Also writes to file:
 
-![image](https://github.com/user-attachments/assets/e54b491b-bfd4-4c97-a4ff-8c29cd516ce4)
+![Screenshot 2025-03-07 003010](https://github.com/user-attachments/assets/af097e87-e3ab-41e3-979f-78267e2d0761)
+
 
 
 
