@@ -20,8 +20,3 @@ python .\TF2ChatDump.py "https://logs.tf/profile/76561198206875340" -s
 Also writes to file:
 
 ![Screenshot 2025-03-07 003010](https://github.com/user-attachments/assets/af097e87-e3ab-41e3-979f-78267e2d0761)
-
-
-
-
-𝐸𝓃𝒿𝑜𝓎 𝑔𝒶𝓂𝑒𝓇𝓈
